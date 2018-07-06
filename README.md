@@ -1,5 +1,6 @@
 # Proyecto Image Placeholder
 
+- Requerimientos
 - Instalar Python
 - Project setup
 - Hola mundo! (La respuesta)
@@ -7,6 +8,9 @@
 - BitesIO (Respondiendo con un Binario)
 - ¿Qué sigue?
 
+## Requerimientos
+
+* Python > 3.5
 
 ## Instalando Python
 
