@@ -21,8 +21,10 @@
 ### MacOS
 
 * [HomeBrew](https://brew.sh/)
-tras instalar homebrew ejecutar el siguiente comando
-	> brew install python
+
+Tras instalar homebrew ejecutar el siguiente comando:
+
+	$ brew install python
 
 ### Linux
 
