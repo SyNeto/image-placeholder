@@ -3,10 +3,6 @@
 - Requerimientos
 - Instalar Python
 - Project setup
-- Hola mundo! (La respuesta)
-- ¿Qué es Pillow?
-- BitesIO (Respondiendo con un Binario)
-- ¿Qué sigue?
 
 ## Requerimientos
 
